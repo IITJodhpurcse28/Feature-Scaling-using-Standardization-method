@@ -1,7 +1,15 @@
 # Feature Scaling using Standardization
 
-A machine learning preprocessing project demonstrating the effect of **Standardization (Z-Score Scaling)** on a dataset and its impact on Logistic Regression performance.
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-red.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple.svg)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
+A machine learning preprocessing project demonstrating the effect of **Standardization (Z-Score Scaling)** on data and model performance.
 ---
 
 ## Overview
